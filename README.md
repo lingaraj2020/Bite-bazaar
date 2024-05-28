@@ -14,8 +14,6 @@
 
 > ## Introducing Food Hub, a food ordering app powered by React.js that effortlessly links users with their favorite dishes. What sets it apart? Integration with the live Swiggy API and Swiggy Instamart API for groceries. With Redux handling state, React Router DOM ensuring easy navigation, and Tailwind CSS crafting a visually appealing interface, alongside Lazy Loading. Also, it utilizes Parcel for efficient bundling. Explore the features below.
 
-
-
 ---
 <!-- Features -->
 <br></br>
@@ -52,14 +50,12 @@
  <a href="https://food-hub-beta.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
 ---
 <br></br>
 ## 🎯 Future or Upcoming Features
 > Multi-Language Functionality: 🌐 Food Hub plans to introduce multi-language functionality, providing users with the flexibility to navigate and use the app in their preferred language, enhancing accessibility for a diverse user base.
 
 > Dark Mode: 🌙 A sleek and energy-efficient Dark Mode is on the horizon for Food Hub, offering users an alternative visual experience that reduces eye strain during low-light conditions.
-
 > Location Setup: 📍 Enhancing user convenience, Food Hub aims to implement location setup features, allowing users to seamlessly set and customize their preferred locations for accurate and personalized service.
 
 > Enhancing Add to Cart Section: 🛒 The Add to Cart section is in line for improvements, ensuring a more intuitive and user-friendly experience when selecting and managing items for purchase.
@@ -69,6 +65,7 @@
 > Login/Sign-in: 🔐 Food Hub is working on enhancing security and user experience with a dedicated login/sign-in feature, allowing users to create accounts and access personalized services.
 
 ---
+
 <br></br>
  ## 🔧 Food Hub's Tech Stack:
 
