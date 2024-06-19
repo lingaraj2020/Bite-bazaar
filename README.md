@@ -46,9 +46,3 @@
 
 - React Router: Enabling seamless navigation within the application.
 
-<<<<<<< HEAD
-
-=======
----
-
-<br></br>
