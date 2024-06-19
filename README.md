@@ -42,16 +42,6 @@
 
 > ### 📱 Completely Responsive: Enjoy a seamless experience across various devices as Food Hub ensures complete responsiveness, adapting to different screen sizes and resolutions.<br></br>
 
----
-<br></br>
-## 🚀 Live Demo 
-
-- Click Below
-
- <a href="https://food-hub-beta.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
----
 <br></br>
 ## 🎯 Future or Upcoming Features
 > Multi-Language Functionality: 🌐 Food Hub plans to introduce multi-language functionality, providing users with the flexibility to navigate and use the app in their preferred language, enhancing accessibility for a diverse user base.
