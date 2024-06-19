@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-=======
-<div align="center">
-  <img src="https://brand.foodhub.com/images/png/logo_vertical_new.png" width="60px" alt="Food Hub Logo">
-  <h1><b>🚀 Your Food Hub</b></h1>
-</div>
-
-
-
-
 <!-- PROJECT DESCRIPTION -->
 
 # 💖 Food Hub 
@@ -41,30 +31,6 @@
 
 > ### 📱 Completely Responsive: Enjoy a seamless experience across various devices as Food Hub ensures complete responsiveness, adapting to different screen sizes and resolutions.<br></br>
 
----
-<br></br>
-## 🚀 Live Demo 
-
-- Click Below
-
- <a href="https://food-hub-beta.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
----
-<br></br>
-## 🎯 Future or Upcoming Features
-> Multi-Language Functionality: 🌐 Food Hub plans to introduce multi-language functionality, providing users with the flexibility to navigate and use the app in their preferred language, enhancing accessibility for a diverse user base.
-
-> Dark Mode: 🌙 A sleek and energy-efficient Dark Mode is on the horizon for Food Hub, offering users an alternative visual experience that reduces eye strain during low-light conditions.
-> Location Setup: 📍 Enhancing user convenience, Food Hub aims to implement location setup features, allowing users to seamlessly set and customize their preferred locations for accurate and personalized service.
-
-> Enhancing Add to Cart Section: 🛒 The Add to Cart section is in line for improvements, ensuring a more intuitive and user-friendly experience when selecting and managing items for purchase.
-
-> Payment: 💳 Food Hub is gearing up to introduce a seamless payment experience, providing users with secure and efficient payment options for a hassle-free checkout process.
-
-> Login/Sign-in: 🔐 Food Hub is working on enhancing security and user experience with a dedicated login/sign-in feature, allowing users to create accounts and access personalized services.
-
----
 
 <br></br>
  ## 🔧 Food Hub's Tech Stack:
@@ -80,15 +46,3 @@
 - React Router: Enabling seamless navigation within the application.
 
 
----
-<br></br>
-## ⭐️ Show your support 
-
-> "If you find value in this project, I would sincerely appreciate your support. Feel free to share it with others who may benefit from it. Your contribution is crucial for my growth and enhancement. 🚀, Please don't hesitate to star this GitHub repository!"
-
----
-
-<br></br>
-
-<div align="center"><h1>Food Hub is made with ❤️</h1> </div>
->>>>>>> 8a79636e1c448228166e9dff10fccfb363a76f22
