@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1c2d48f46eda1c94f5da4b27b800761c8c0d3181
 <!-- PROJECT DESCRIPTION -->
 
 # 💖 Food Hub 
@@ -31,6 +35,10 @@
 
 > ### 📱 Completely Responsive: Enjoy a seamless experience across various devices as Food Hub ensures complete responsiveness, adapting to different screen sizes and resolutions.<br></br>
 
+<<<<<<< HEAD
+=======
+---
+>>>>>>> 1c2d48f46eda1c94f5da4b27b800761c8c0d3181
 
 <br></br>
  ## 🔧 Food Hub's Tech Stack:
@@ -45,4 +53,12 @@
 
 - React Router: Enabling seamless navigation within the application.
 
+<<<<<<< HEAD
 
+=======
+---
+
+<br></br>
+
+<div align="center"><h1>Food Hub is made with ❤️</h1> </div>
+>>>>>>> 1c2d48f46eda1c94f5da4b27b800761c8c0d3181
