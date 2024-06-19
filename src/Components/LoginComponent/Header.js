@@ -65,11 +65,6 @@ const Header = () => {
               Home
             </h1>
           </Link>
-          <Link to="/About">
-            <h2 className="text-lg font-semibold hover:text-gray-400 transition duration-300">
-              About
-            </h2>
-          </Link>
           <Link to="/Contact">
             <h3 className="text-lg font-semibold hover:text-gray-400 transition duration-300">
               Contact Us

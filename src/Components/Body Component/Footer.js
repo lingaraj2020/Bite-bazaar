@@ -28,8 +28,7 @@ const Footer = () => {
 
                 <div className="lg:w-2/12 w-4/12 md:w-2/12">
                     <span className={titleCss}>Company</span>
-                    <ul>
-                        <li className={LiCss}><Link to="/about">About</Link></li>
+                    <ul>    
                         <li className={LiCss}><Link to="/careers">Careers</Link></li>
                         <li className={LiCss}><Link to="/team">Team</Link></li>
                         <li className={LiCss}><Link to="/foody-instamart">Foody Instamart</Link></li>
