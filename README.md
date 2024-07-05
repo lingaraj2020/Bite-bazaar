@@ -1,7 +1,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 💖 Food Hub 
+# Food Hub 
 
 > ## Introducing Food Hub, a food ordering app powered by React.js that effortlessly links users with their favorite dishes. What sets it apart? Integration with the live Swiggy API and Swiggy Instamart API for groceries. With Redux handling state, React Router DOM ensuring easy navigation, and Tailwind CSS crafting a visually appealing interface, alongside Lazy Loading. Also, it utilizes Parcel for efficient bundling. Explore the features below.
 
@@ -33,16 +33,4 @@
 > ### 📱 Completely Responsive: Enjoy a seamless experience across various devices as Food Hub ensures complete responsiveness, adapting to different screen sizes and resolutions.<br></br>
 
 
-<br></br>
- ## 🔧 Food Hub's Tech Stack:
-
-- React: Powering the dynamic and interactive user interface.
-
-- Parcel: Efficiently bundling and managing packages for streamlined development.
-
-- Redux Toolkit: Managing application state for a scalable and organized architecture.
-
-- Tailwind CSS: Crafting a visually appealing and responsive design.
-
-- React Router: Enabling seamless navigation within the application.
 
