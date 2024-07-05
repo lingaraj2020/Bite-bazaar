@@ -58,7 +58,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="bg-zinc-800 text-white text-center py-5">
-                <span className="tracking-wide">© 2024 All Rights Reserved Samanvith Reddy</span>
+                <span className="tracking-wide">© 2024 All Rights Reserved Lingaraj</span>
             </div>
         </div>
     );
